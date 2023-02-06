@@ -6,3 +6,4 @@ green apple
 radish
 red apple
 tomato
+sliced apple
